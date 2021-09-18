@@ -13,17 +13,6 @@ class NewsService {
         News news = new News(params)
         news.member = authenticationService.getMember()
         def response = AppUtil.saveResponse(false, news)
-       /* News news = new News()
-        def file = params.image;
-        news.isPublish = false;
-        news.image = file.getBytes();
-        news.dateCreated = params.dateCreated
-        news.description = params.description
-        news.title = params.title
-        news.identityHash = null
-        news.identityHashLastUpdate = null*/
-
-       // def response  = AppUtil.saveResponse(false, news)
         if(news.validate()){
             news.save(flush: true)
             if(!news.hasErrors()){

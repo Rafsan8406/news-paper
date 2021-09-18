@@ -37,7 +37,7 @@ class NewsController {
                 // flash.message = AppUtil.infoMessage(g.message(code: "unable.to.update"), false)
                 redirect(controller: "news", action: "index")
             }else{
-                //flash.message = AppUtil.infoMessage(g.message(code: "updated"))
+                //flash.message = AppUtil.infoMes sage(g.message(code: "updated"))
                 redirect(controller: "news", action: "index")
             }
         }

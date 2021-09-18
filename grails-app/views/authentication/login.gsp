@@ -1,5 +1,6 @@
 
 
+
 <%--<div id="global-wrapper">
     <div id="content-wrapper">
         <div class="container">
@@ -40,7 +41,7 @@
             <g:textField name="email" class="user" placeholder="Email" required="required" />
             <g:passwordField name="password" class="pass" placeholder="Password" required="required" />
             <g:submitButton class="login" name="login" value="Login"/>
-            <g:link controller="member" action="create" class="btn btn-lg btn-primary btn-block">Member Registration</g:link>
+            <g:link controller="authentication" action="register" class="btn btn-lg btn-primary btn-block">Member Registration</g:link>
         </g:form>
     </div>
 
