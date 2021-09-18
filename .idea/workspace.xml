@@ -2,30 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2f19bdf-315b-4340-bb11-c9cbe094a845" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.asscache" afterPath="$PROJECT_DIR$/.asscache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.9/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.9/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.9/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.9/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.9/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.9/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.9/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.9/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/news/AuthenticationService.class" afterPath="$PROJECT_DIR$/build/classes/main/news/AuthenticationService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/news/Member.class" afterPath="$PROJECT_DIR$/build/classes/main/news/Member.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/news/MemberService.class" afterPath="$PROJECT_DIR$/build/classes/main/news/MemberService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/news/News.class" afterPath="$PROJECT_DIR$/build/classes/main/news/News.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/news/NewsService$_list_closure1.class" afterPath="$PROJECT_DIR$/build/classes/main/news/NewsService$_list_closure1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/news/NewsService.class" afterPath="$PROJECT_DIR$/build/classes/main/news/NewsService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/news/paper/UrlMappings$__clinit__closure1.class" afterPath="$PROJECT_DIR$/build/classes/main/news/paper/UrlMappings$__clinit__closure1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newsp/AuthenticationController.class" afterPath="$PROJECT_DIR$/build/classes/main/newsp/AuthenticationController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newsp/MemberController.class" afterPath="$PROJECT_DIR$/build/classes/main/newsp/MemberController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newsp/NewsController.class" afterPath="$PROJECT_DIR$/build/classes/main/newsp/NewsController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newsp/ShowNewsController.class" afterPath="$PROJECT_DIR$/build/classes/main/newsp/ShowNewsController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/resources/main/authentication/login.gsp" afterPath="$PROJECT_DIR$/build/resources/main/authentication/login.gsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/stacktrace.log" afterPath="$PROJECT_DIR$/build/stacktrace.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/news/paper/UrlMappings.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/news/paper/UrlMappings.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/newsp/AuthenticationController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/newsp/AuthenticationController.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/newsp/NewsController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/newsp/NewsController.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/services/news/NewsService.groovy" afterPath="$PROJECT_DIR$/grails-app/services/news/NewsService.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/authentication/login.gsp" afterPath="$PROJECT_DIR$/grails-app/views/authentication/login.gsp" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -58,8 +36,8 @@
       <file leaf-file-name="NewsController.groovy" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/controllers/newsp/NewsController.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="46" column="46" lean-forward="true" selection-start-line="46" selection-start-column="46" selection-end-line="46" selection-end-column="46" />
+            <state relative-caret-position="119">
+              <caret line="45" column="29" lean-forward="true" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
               <folding>
                 <element signature="e#14#33#0" expanded="true" />
               </folding>
@@ -1346,12 +1324,12 @@
       <workItem from="1631746007904" duration="3864000" />
       <workItem from="1631762253495" duration="15134000" />
       <workItem from="1631934560300" duration="15432000" />
-      <workItem from="1631954429894" duration="496000" />
+      <workItem from="1631954429894" duration="3081000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131608000" />
+    <option name="totallyTimeSpent" value="134193000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -1359,7 +1337,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39905363" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -2062,8 +2040,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/controllers/newsp/NewsController.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="46" column="46" lean-forward="true" selection-start-line="46" selection-start-column="46" selection-end-line="46" selection-end-column="46" />
+        <state relative-caret-position="119">
+          <caret line="45" column="29" lean-forward="true" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
           <folding>
             <element signature="e#14#33#0" expanded="true" />
           </folding>
