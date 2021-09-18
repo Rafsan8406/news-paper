@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/news-paper.iml" filepath="$PROJECT_DIR$/.idea/modules/news-paper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/news-paper_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/news-paper_integrationTest.iml" group="news-paper" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/news-paper_main.iml" filepath="$PROJECT_DIR$/.idea/modules/news-paper_main.iml" group="news-paper" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/news-paper_test.iml" filepath="$PROJECT_DIR$/.idea/modules/news-paper_test.iml" group="news-paper" />
+    </modules>
+  </component>
+</project>
