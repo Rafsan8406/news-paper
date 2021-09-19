@@ -14,7 +14,7 @@ class NewsInterceptor {
         if (authenticationService.isAdministratorMember()){
             return true
         }
-        flash.message = AppUtil.infoMessage("You are not Authorized for this Action.", false)
+        flash.message = "You are not Authorized for this Action."
         redirect(controller: "news", action: "index")
         return false
     }

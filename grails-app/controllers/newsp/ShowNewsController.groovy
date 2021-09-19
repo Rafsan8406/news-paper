@@ -7,7 +7,7 @@ class ShowNewsController {
     NewsService newsService
     def index() {
         params.max=300;
-        def response = newsService.list(params);
+        def response = newsService.getlist(params);
         [newsList: response.list, total: response.count]
     }
 
@@ -21,7 +21,6 @@ class ShowNewsController {
 
     }
     def showCover(){
-
         def news = News.get(params.id)
         response.outputStream << news.image
         response.outputStream.flush()

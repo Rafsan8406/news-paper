@@ -1,13 +1,22 @@
 package newsp
 import news.AppUtil
-
+import news.AuthenticationService
+import news.Member
 import news.NewsService
 
 class NewsController {
     NewsService newsService
+    AuthenticationService authenticationService
+
     def index() {
+        def admember = new Member();
+        admember = authenticationService.getMember();
+        if(admember.memberType=='ADMINISTRATOR'){
+            def response = newsService.getlist(params);
+            [newsList: response.list, total: response.count]
+        }else{
         def response = newsService.list(params);
-        [newsList: response.list, total: response.count]
+        [newsList: response.list, total: response.count]}
     }
     def create() {
         [news: flash.redirectParams]

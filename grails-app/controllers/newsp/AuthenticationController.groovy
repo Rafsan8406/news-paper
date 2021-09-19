@@ -5,10 +5,13 @@ import news.Member
 import news.MemberService
 import org.grails.web.util.WebUtils
 
+import javax.servlet.http.HttpSession
+
 class AuthenticationController {
 
     AuthenticationService authenticationService
     MemberService memberService
+    //HttpSession session
     def index(){
 
     }
